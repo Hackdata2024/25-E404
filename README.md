@@ -47,8 +47,6 @@ Report: Confirm the detected potholes and submit them to the app's reporting sys
 
 Track: Monitor the status of your reported potholes and receive notifications on their resolution progress.
 
-# Contributing
-We welcome contributions from the community to enhance Urban Solve's capabilities and expand its reach. If you're interested in contributing, please refer to our Contribution Guidelines.
 
 # Support
 For any issues or feedback related to Urban Solve, please contact our team at:
