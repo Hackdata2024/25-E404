@@ -1,6 +1,18 @@
 # Urban Solve
 Urban Solve is an innovative mobile application designed to detect and report potholes in urban areas using advanced machine learning models. The app aims to improve road safety and infrastructure maintenance by empowering users to contribute real-time data on road conditions.
 
+![Screenshot_20240204-112200](https://github.com/Hackdata2024/25-E404/assets/128586763/8f8efd98-323a-4c08-b671-c6db376bb5af)
+![Screenshot_20240204-112203](https://github.com/Hackdata2024/25-E404/assets/128586763/a72d0eb9-0b07-471a-b726-93f58d5852d6)
+![Screenshot_20240204-112206](https://github.com/Hackdata2024/25-E404/assets/128586763/e84d13e2-b4d8-4a24-be82-6b5b6164d94c)
+![Screenshot_20240204-112210](https://github.com/Hackdata2024/25-E404/assets/128586763/32826421-99df-4a0b-bad1-77013df72083)
+![Screenshot_20240204-112216](https://github.com/Hackdata2024/25-E404/assets/128586763/01a6fa72-1012-4663-83c0-abc0269db90b)
+![Screenshot_20240204-112229](https://github.com/Hackdata2024/25-E404/assets/128586763/6a76ffec-5275-4f9e-b281-8d26bd9a8e95)
+![Screenshot_20240204-112232](https://github.com/Hackdata2024/25-E404/assets/128586763/0d8e2ceb-27c7-43ba-93e5-ff956118fefd)
+![Screenshot_20240204-112324](https://github.com/Hackdata2024/25-E404/assets/128586763/c14004bf-7d0f-4abe-a138-70e60a98dc16)
+![Screenshot_20240204-112339](https://github.com/Hackdata2024/25-E404/assets/128586763/035902de-315d-4bcd-be22-44df0de6e82d)
+
+
+
 
 # Features
 Pothole Detection: Utilizes state-of-the-art machine learning algorithms to accurately detect potholes from images captured by the user's device.
