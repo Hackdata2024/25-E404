@@ -12,6 +12,7 @@ User Engagement: Encourages community participation by gamifying the reporting p
 
 # Installation
 To use Urban Solve, simply download the app from the App Store or Google Play Store and follow the on-screen instructions to set up your account.
+![Alt text](Screenshots/Screenshot (1).png)
 
 # Usage
 Capture: Use the app's camera feature to capture images of potholes during your commute or while traveling.
