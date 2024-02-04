@@ -27,19 +27,19 @@ Location Tagging: Automatically tags the location of each reported pothole using
 User Engagement: Encourages community participation by gamifying the reporting process and rewarding users for their contributions.
 
 # Installation
-To use Urban Solve, simply download the app from the App Store or Google Play Store and follow the on-screen instructions to set up your account.
-Step - 01:
-Make sure to be in the right directory (UrbanSolve).
+To use Urban Solve, simply download the app from the App Store or Google Play Store and follow the on-screen instructions to set up your account.<br />
+Step - 01:<br />
+Make sure to be in the right directory (UrbanSolve).<br />
 ![Screenshot (1)](https://github.com/Hackdata2024/25-E404/assets/128586763/31cc5761-5e45-47cb-bc87-313bb7d99753)
-Step - 02:
-Write Command 'flutter pub get' to get all the plug-ins and packages.
+Step - 02:<br />
+Write Command 'flutter pub get' to get all the plug-ins and packages.<br />
 ![Screenshot (2)](https://github.com/Hackdata2024/25-E404/assets/128586763/707679c2-a660-488f-b94c-65b37aa58d06)
-Step - 03:
-Write Command 'flutter pub outdated' because of incomparibility of some dependencies with other dependency.
-If you are still facing some isssues run 'flutter pub get' again.
+Step - 03:<br />
+Write Command 'flutter pub outdated' because of incomparibility of some dependencies with other dependency.<br />
+If you are still facing some isssues run 'flutter pub get' again.<br />
 ![Screenshot (4)](https://github.com/Hackdata2024/25-E404/assets/128586763/a996cd02-e078-446c-a760-3f4f796640e6)
-Step - 04:
-Write 'flutter run' to run the app on your emulator or on your physical device.
+Step - 04:<br />
+Write 'flutter run' to run the app on your emulator or on your physical device.<br />
 ![Screenshot (6)](https://github.com/Hackdata2024/25-E404/assets/128586763/4aa40c75-d6ca-4b43-9864-f587dae70aaa)
 
 
@@ -52,8 +52,8 @@ Track: Monitor the status of your reported potholes and receive notifications on
 
 
 # Support
-For any issues or feedback related to Urban Solve, please contact our team at:
-irishittiwari@gmail.com
-22cs3035@rgipt.ac.in
-shubh42003@gmail.com
-22mc3025@rgipt.ac.in
+For any issues or feedback related to Urban Solve, please contact our team at:<br />
+irishittiwari@gmail.com<br />
+22cs3035@rgipt.ac.in<br />
+shubh42003@gmail.com<br />
+22mc3025@rgipt.ac.in<br />
