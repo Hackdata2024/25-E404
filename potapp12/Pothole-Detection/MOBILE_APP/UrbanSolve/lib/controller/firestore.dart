@@ -12,7 +12,7 @@ class SendDetails {
   PopUpMessage popUpMessage = PopUpMessage();
 
   Future<void> sendDetails(context, LatLng latlng) async {
-    print("kitta");
+    print("check");
     try {
       await databaseReference.child('Potholes').push().set({
         'lat': latlng.latitude,
