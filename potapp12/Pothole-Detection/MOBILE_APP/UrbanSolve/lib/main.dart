@@ -3,7 +3,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
 import 'package:flutter/material.dart';
-// import 'package:error404/home.dart';
 import 'package:error404/views/livedetection.dart';
 import 'package:error404/views/onbording.dart';
 import 'package:provider/provider.dart';
