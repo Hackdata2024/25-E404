@@ -4,7 +4,6 @@ import 'package:error404/views/report.dart';
 import 'package:error404/views/viewpot.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:error404/views/faq.dart';
-// import 'package:flutter_gif/flutter_gif.dart';
 
 
 class HomePage extends StatelessWidget {
