@@ -10,6 +10,9 @@ Urban Solve is an innovative mobile application designed to detect and report po
 ![Screenshot_20240204-112232](https://github.com/Hackdata2024/25-E404/assets/128586763/0d8e2ceb-27c7-43ba-93e5-ff956118fefd)
 ![Screenshot_20240204-112324](https://github.com/Hackdata2024/25-E404/assets/128586763/c14004bf-7d0f-4abe-a138-70e60a98dc16)
 ![Screenshot_20240204-112339](https://github.com/Hackdata2024/25-E404/assets/128586763/035902de-315d-4bcd-be22-44df0de6e82d)
+![Screenshot_20240204-113931](https://github.com/Hackdata2024/25-E404/assets/128586763/d90bcfa0-18ca-41e9-8b19-73f8e3acdcd8)
+![Screenshot_20240204-114006](https://github.com/Hackdata2024/25-E404/assets/128586763/0b8f52ce-ff62-4e2d-a4ff-a3c11db88060)
+
 
 
 
